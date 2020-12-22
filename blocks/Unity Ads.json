@@ -1,0 +1,1 @@
+[{"name":"show","palette":"128","spec":"showInterstitialAd%m.activity placementId interstitial %s ","typeName":"","type":" ","code":"UnityAds.show(%1$s.this, %2$s);","color":"#FF9E9E9E"},{"name":"unity","palette":"128","spec":"initializeUnityAds%s testMode %b  ","typeName":"","type":" ","code":"UnityAds.initialize(this, %1$s, %2$s, false);","color":"#FF9E9E9E"}]
